@@ -1,0 +1,3 @@
+/home/ctlister/CLionProjects/Chapter19StackADT2/cmake-build-debug/CMakeFiles/Chapter19StackADT2.dir
+/home/ctlister/CLionProjects/Chapter19StackADT2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ctlister/CLionProjects/Chapter19StackADT2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

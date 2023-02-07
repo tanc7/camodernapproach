@@ -1,0 +1,3 @@
+/home/ctlister/CLionProjects/Chapter17DynamicallyAllocatedStrings/cmake-build-debug/CMakeFiles/Chapter17DynamicallyAllocatedStrings.dir
+/home/ctlister/CLionProjects/Chapter17DynamicallyAllocatedStrings/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ctlister/CLionProjects/Chapter17DynamicallyAllocatedStrings/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+/home/ctlister/CLionProjects/Chapter20BItwiseOperators/cmake-build-debug/CMakeFiles/Chapter20BItwiseOperators.dir
+/home/ctlister/CLionProjects/Chapter20BItwiseOperators/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ctlister/CLionProjects/Chapter20BItwiseOperators/cmake-build-debug/CMakeFiles/rebuild_cache.dir

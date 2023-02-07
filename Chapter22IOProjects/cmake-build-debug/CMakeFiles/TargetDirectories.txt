@@ -1,0 +1,3 @@
+/home/ctlister/CLionProjects/Chapter22IOProjects/cmake-build-debug/CMakeFiles/Chapter22IOProjects.dir
+/home/ctlister/CLionProjects/Chapter22IOProjects/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ctlister/CLionProjects/Chapter22IOProjects/cmake-build-debug/CMakeFiles/rebuild_cache.dir

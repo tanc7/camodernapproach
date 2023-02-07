@@ -1,0 +1,3 @@
+/home/ctlister/CLionProjects/Chapter16Inventory/cmake-build-debug/CMakeFiles/Chapter16Inventory.dir
+/home/ctlister/CLionProjects/Chapter16Inventory/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ctlister/CLionProjects/Chapter16Inventory/cmake-build-debug/CMakeFiles/rebuild_cache.dir

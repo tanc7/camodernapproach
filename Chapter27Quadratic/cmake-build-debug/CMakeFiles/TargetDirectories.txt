@@ -1,0 +1,3 @@
+/home/ctlister/CLionProjects/Chapter27Quadratic/cmake-build-debug/CMakeFiles/Chapter27Quadratic.dir
+/home/ctlister/CLionProjects/Chapter27Quadratic/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ctlister/CLionProjects/Chapter27Quadratic/cmake-build-debug/CMakeFiles/rebuild_cache.dir

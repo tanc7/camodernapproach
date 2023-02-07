@@ -1,0 +1,3 @@
+/home/ctlister/CLionProjects/ch19ifnormationhiding/cmake-build-debug/CMakeFiles/ch19ifnormationhiding.dir
+/home/ctlister/CLionProjects/ch19ifnormationhiding/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ctlister/CLionProjects/ch19ifnormationhiding/cmake-build-debug/CMakeFiles/rebuild_cache.dir

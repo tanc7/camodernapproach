@@ -1,0 +1,7 @@
+# ninja log v5
+0	28	1670261597263252665	CMakeFiles/ch17linkedlists.dir/main.c.o	1d67da416bcf4665
+0	18	1670261786883126186	CMakeFiles/ch17linkedlists.dir/readline.c.o	6e63b7304d4e9b76
+18	35	1670261786899126854	ch17linkedlists	38be9fdea17e98c0
+0	21	1670263684681957420	CMakeFiles/ch17linkedlists.dir/readline.c.o	c6202f03fbfe7552
+0	26	1670263684689957740	CMakeFiles/ch17linkedlists.dir/main.c.o	f0f433d5d96e4ba5
+26	43	1670263684705958381	ch17linkedlists	c3190a7ee89ad2dd

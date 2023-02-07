@@ -1,0 +1,4 @@
+# ninja log v5
+0	22	1670435759561160680	build.ninja	c548ac70e8925ad9
+0	21	1670435759589161392	CMakeFiles/Chapter24ErrorHandling.dir/testjmp.c.o	e625d6e933f96b30
+21	40	1670435759609161899	Chapter24ErrorHandling	c8384d1a8188ecd0

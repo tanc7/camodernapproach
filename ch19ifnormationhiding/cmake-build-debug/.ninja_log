@@ -1,0 +1,6 @@
+# ninja log v5
+0	23	1670265534034986720	CMakeFiles/ch19ifnormationhiding.dir/stack.c.o	6c2176005d7a0188
+0	18	1670265602285907544	build.ninja	d020ae9ed5bec47e
+0	22	1670265534034986720	CMakeFiles/ch19ifnormationhiding.dir/main.c.o	4aa8115534d69712
+0	17	1670265602285907544	build.ninja	d020ae9ed5bec47e
+0	22	1670265602313908741	CMakeFiles/ch19ifnormationhiding.dir/stack2.c.o	5a5bce7c9dcc1e55

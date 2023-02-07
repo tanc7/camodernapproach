@@ -1,0 +1,3 @@
+/home/ctlister/CLionProjects/Chapter13Remind/cmake-build-debug/CMakeFiles/Chapter13Remind.dir
+/home/ctlister/CLionProjects/Chapter13Remind/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ctlister/CLionProjects/Chapter13Remind/cmake-build-debug/CMakeFiles/rebuild_cache.dir

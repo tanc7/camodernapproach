@@ -1,0 +1,7 @@
+# ninja log v5
+1	27	1670268086758715020	CMakeFiles/ch15multiplefileprogram.dir/line.c.o	b3e220f53f025e4c
+1	26	1670268086758715020	CMakeFiles/ch15multiplefileprogram.dir/word.c.o	7f1795ca1f6079d8
+1	22	1670268086754714867	CMakeFiles/ch15multiplefileprogram.dir/justify.c.o	122bac3f4a40a2b9
+0	22	1670268086754714867	CMakeFiles/ch15multiplefileprogram.dir/main.c.o	82b62c654bc3e9d0
+0	18	1670268114415780977	build.ninja	ece517b58c06a684
+1	18	1670268114439781909	ch15multiplefileprogram	25576950d660c817

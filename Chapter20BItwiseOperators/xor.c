@@ -1,0 +1,17 @@
+//#include <stdio.h>
+//#include <windows.h>
+#include <stdio.h>
+#include <ctype.h>
+#define KEY '&'
+int main(void) {
+    int orig_char, new_char;
+//    orig_char = 0x41;
+    while ((orig_char = getchar()) != EOF) {
+        new_char = orig_char ^ KEY;
+        if (isprint(orig_char) && isprint(new_char))
+            putchar(new_char);
+        else
+            putchar(orig_char);
+    }
+    return 0;
+}
